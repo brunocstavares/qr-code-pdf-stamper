@@ -1,4 +1,4 @@
-# 📄 Carimbador SEI - IPHAN
+# 📄 Carimbador de Projetos em PDF
 
 Uma ferramenta web leve, de arquivo único (Single-file) e 100% executada no navegador (Client-Side) desenvolvida para inserir carimbos digitais de aprovação em pranchas de projetos arquitetônicos. O sistema foi projetado especificamente para atender fluxos de trabalho onde há restrições de segurança em servidores locais (ausência de PHP/Node no backend) na preparação de arquivos em lote para o Sistema Eletrônico de Informações (SEI).
 
